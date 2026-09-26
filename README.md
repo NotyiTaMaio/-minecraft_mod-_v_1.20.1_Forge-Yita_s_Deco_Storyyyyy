@@ -14,17 +14,27 @@
 * BiliBili\[https://space.bilibili.com/491508916]
 * Github\[https://github.com/NotyiTaMaio]
 
+# ==\[协议]==
+* 代码：MIT License \ [麻省理工许可]
+* 美术资源：\[CC BY-SA 4.0 / 署名-相同方式分享]
 
 # ==\[Mod Installation / Version Minecraft 1.20.1 Forge]==
 * This is a mod made with MCreator2026.2, and the current mod version is Alpha.
 * Precondition: Geckolib Main Mod: Yita s Deco Dtoryyyyyyyyyyy
 * Recommended Mod to install: Yuushya Modelling
+
 # ==\[Mod Compatibility Issues]==
 * \[WARNING! Editing Geckolib blocks with block editing tools may cause game crashes and permanent save file corruption]
 * \[Note: The author will not consider adding compatibility for Geckolib blocks; whoever wants to can implement the compatibility]
 * [Yita s Deco Dtoryyyyyyyyyyy] Mod's Geckolib blocks cannot be edited by tools from the [Yuushya Modelling] Mod or other similar editing Mods.
+
 # ==\[Mod Credits List]==
 * GeckoLib / Mcreator
-# ==-\[Owner/Art Assets/Texts/] No't - Yi.Ta.Maio.
+
+# ==\[Owner/Art Assets/Texts/] No't - Yi.Ta.Maio.
 * BiliBili\[https://space.bilibili.com/491508916]
 * Github\[https://github.com/NotyiTaMaio]
+
+# ==\[Agreement]==
+* Code: MIT License
+* Art Assets: CC BY-SA 4.0 / Attribution-ShareAlike
