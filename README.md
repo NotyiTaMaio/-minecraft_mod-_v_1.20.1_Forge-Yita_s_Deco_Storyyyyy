@@ -1,40 +1,45 @@
-# ==\[Mod安装/版本Minecraft 1.20.1 Forge]==
+
+# [Yita s Deco Dtoryyyyyyyyyyy Mod]
+
+## [Mod安装/版本Minecraft 1.20.1 Forge]
 * 这是一个使用MCreator2026.2制作的Mod，目前mod版本是Alpha版本
 * 前置：Geckolib 本体：Yita s Deco Dtoryyyyyyyyyyy
 * 推荐安装Mod：Yuushya Modelling
 
-# ==\[Mod兼容性问题]==
-* \[警告！使用方块编辑工具编辑Geckolib方块可能导致游戏崩溃与存档永久损坏]==
-* \[Yita s Deco Dtoryyyyyyyyyyy]Mod的Geckolib方块无法被\[Yuushya Modelling]Mod的工具编辑包括其它类似Mod编辑
-* \[备注作者不会考虑对Geckolib方块兼容，谁能去兼容]
+## [Mod兼容性问题]
+* [警告！使用方块编辑工具编辑Geckolib方块可能导致游戏崩溃与存档永久损坏]==
+* [Yita s Deco Dtoryyyyyyyyyyy]Mod的Geckolib方块无法被\[Yuushya Modelling]Mod的工具编辑包括其它类似Mod编辑
+* [备注作者不会考虑对Geckolib方块兼容，谁能去兼容]
 
-# ==[Mod鸣谢名单 代码贡献]==
+## [Mod鸣谢名单 代码贡献]
 * GeckoLib / Mcreator
-# ==\[所有者/美术资源/文本：伊塔喵啊]==
+## [所有者/美术资源/文本：伊塔喵啊]
 * BiliBili\[https://space.bilibili.com/491508916]
 * Github\[https://github.com/NotyiTaMaio]
 
-# ==\[协议]==
+## [协议]
 * 代码：MIT License \ [麻省理工许可]
 * 美术资源：\[CC BY-SA 4.0 / 署名-相同方式分享]
 
-# ==\[Mod Installation / Version Minecraft 1.20.1 Forge]==
+# [Yita s Deco Dtoryyyyyyyyyyy Mod]
+
+## [Mod Installation / Version Minecraft 1.20.1 Forge]
 * This is a mod made with MCreator2026.2, and the current mod version is Alpha.
 * Precondition: Geckolib Main Mod: Yita s Deco Dtoryyyyyyyyyyy
 * Recommended Mod to install: Yuushya Modelling
 
-# ==\[Mod Compatibility Issues]==
-* \[WARNING! Editing Geckolib blocks with block editing tools may cause game crashes and permanent save file corruption]
-* \[Note: The author will not consider adding compatibility for Geckolib blocks; whoever wants to can implement the compatibility]
+## [Mod Compatibility Issues]
+* [WARNING! Editing Geckolib blocks with block editing tools may cause game crashes and permanent save file corruption]
+* [Note: The author will not consider adding compatibility for Geckolib blocks; whoever wants to can implement the compatibility]
 * [Yita s Deco Dtoryyyyyyyyyyy] Mod's Geckolib blocks cannot be edited by tools from the [Yuushya Modelling] Mod or other similar editing Mods.
 
-# ==\[Mod Credits List]==
+## [Mod Credits List]
 * GeckoLib / Mcreator
 
-# ==\[Owner/Art Assets/Texts/] No't - Yi.Ta.Maio.
+## [Owner/Art Assets/Texts/] No't - Yi.Ta.Maio.
 * BiliBili\[https://space.bilibili.com/491508916]
 * Github\[https://github.com/NotyiTaMaio]
 
-# ==\[Agreement]==
+## [Agreement]
 * Code: MIT License
 * Art Assets: CC BY-SA 4.0 / Attribution-ShareAlike
