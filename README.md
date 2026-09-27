@@ -20,6 +20,7 @@
 ## [协议]
 * 代码：MIT License \ [麻省理工许可]
 * 美术资源：\[CC BY-SA 4.0 / 署名-相同方式分享]
+* NoAI：Mod艺术资源不能用于生成式 AI 程序的数据集、开发或作为输入。
 
 # [Yita s Deco Dtoryyyyyyyyyyy Mod]
 
@@ -43,3 +44,4 @@
 ## [Agreement]
 * Code: MIT License
 * Art Assets: CC BY-SA 4.0 / Attribution-ShareAlike
+* NoAI: Mod art resource can't be used for generative AI program datasets, development, or as input.
